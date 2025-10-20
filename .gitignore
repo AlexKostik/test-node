@@ -1,0 +1,36 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn.lock
+
+# OS
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+
+# Build
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# Кеши и временные файлы
+*.swp
+*~
+._*
+.Spotlight-V100
+.Trashes
+
+#Ignore vscode AI rules
+.github\instructions\codacy.instructions.md
